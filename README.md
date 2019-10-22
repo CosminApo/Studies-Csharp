@@ -1,2 +1,2 @@
 # Studies
-A collection of most of the code I've written while studying C#, that I did not feel needed their own repository. 
+A collection of code I've written while studying C#. These are single files that highlight a specific feature of C#.
